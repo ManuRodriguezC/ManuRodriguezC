@@ -10,6 +10,12 @@
   </a>
 </div>
 
+<div id="badges" align="center" >
+  <a href="https://www.linkedin.com/in/manurodriguezdev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ </div>
+
 ## About Me!
 
 Software developer passionate about creating solutions through code, I love having to adapt and face new challenges that involve teamwork and adapt to new technologies if necessary.
