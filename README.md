@@ -37,7 +37,7 @@ Software developer passionate about creating solutions through code, I love havi
 
 ## :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiyi-Hurtado&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuRodriguezC&theme=dark&show_icons=true)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuRodriguezC&layout=compact&theme=react)
